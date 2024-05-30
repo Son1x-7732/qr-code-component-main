@@ -1,6 +1,6 @@
 # Frontend Mentor - QR code component
 
-This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS).
 
 ## Table of contents
 
@@ -22,18 +22,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
-
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
+![](./design/desktop-design.jpg)
 
 ### Links
 
-- Solution URL: (https://github.com/Son1x-7732/qr-code-component-main.git)
-- Live Site URL: (https://qrcode7732.netlify.app/)
+- Solution URL: [Solution URL](https://github.com/Son1x-7732/qr-code-component-main.git)
+- Live Site URL: [Live site URL](https://qrcode7732.netlify.app/)
 
 
 ### Built with
@@ -42,12 +36,9 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - CSS custom properties
 - Flexbox
 
-```
 ## Author
 
-- Website - (https://www.your-site.com)
-- Frontend Mentor - (https://www.frontendmentor.io/profile/yourusername)
-
-
+- Website - [Cliffybadger](https://github.com/Son1x-7732)
+- Frontend Mentor - [son1x](https://www.frontendmentor.io/profile/Son1x-7732)
 
 **Have fun building!** 🚀
